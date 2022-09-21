@@ -1,0 +1,9 @@
+1、安装软件并打开（从官网下载：https://www.navicat.com.cn/download/navicat-premium）
+2、打开注册机选择软件版本和软件语言（默认选择Premium和中文简体）
+3、然后点击Patch
+4、点击Generate，然后点击Copy复制左边的许可证
+5、点击注册>复制到左边的方框>点击激活>（提示激活不可用）点击手动激活
+6、将软件中的请求码复制到注册机中
+7、点击左下角的Generate，打开软件点击激活即可
+
+by winwk.com
